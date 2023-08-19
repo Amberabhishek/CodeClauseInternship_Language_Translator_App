@@ -1,5 +1,5 @@
-# Language_Translator
-An android app which will allows you to translate Hindi to English and English to Hindi with cool UI. It also supports voice input frature. It also supports real time audio translation.It also has some cutom animations.
+# Language_Translator_App
+An android app which will allows you to translate English to Hindi & Hindi to English and with cool UI. It also supports voice input feature. It also supports real time audio translation.
 
 ## Android Screenshots
 
