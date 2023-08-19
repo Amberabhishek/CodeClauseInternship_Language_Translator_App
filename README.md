@@ -17,6 +17,3 @@ dependencies {
   implementation 'com.google.mlkit:translate:16.1.1'
 }
 ```
-
-### Getting Started
-[Learn More](https://developers.google.com/ml-kit/language/translation/android#java)
